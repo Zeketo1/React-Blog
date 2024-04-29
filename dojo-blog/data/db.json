@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis......",
+            "author": "Luz",
+            "id": 1
+        },
+        {
+            "title": "Opening Party",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolore distinctio placeat optio, reiciendis alias nesciunt suscipit eos quo neque quibusdam, accusantium asperiores tenetur provident rem veritatis quasi, harum facilis......",
+            "author": "Francis",
+            "id": 2
+        }
+    ]
+}
